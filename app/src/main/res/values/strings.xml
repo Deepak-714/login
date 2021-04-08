@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">c69a1f87237ace24d201b8d51f6a3295</string>
+    <string name="post_data">Make a Post Request</string>
+    <string name="get_data">Make a Get Request</string>
+    <string name="title_post">Post Data to API</string>
+    <string name="submit_data">Submit Data</string>
+</resources>
